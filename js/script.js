@@ -1,6 +1,6 @@
-// let menu = document.querySelector('#menu-bars');
-// console.log(menu);
-// let header = document.querySelector('header');
+let menu = document.querySelector('#menu-bars');
+console.log(menu);
+let header = document.querySelector('header');
 
 // menu.onclick = () =>{
 //     menu.classList.toggle('fa-times');
